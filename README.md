@@ -1,6 +1,4 @@
-- 👋 Hey there! Im RoyalQuack, just your average developer.
-- 👀 I know Web development, Python, Java and Kotlin
-- 📫 Reach me on discord: RoyalQuack#3393
+One pixel at a time
 
 <!---
 RoyalQuack/RoyalQuack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
